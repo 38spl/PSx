@@ -1,3 +1,4 @@
+# PSx: Fancy & Highly Customizable bash(1) Prompts
 
 A fancy and highly customizable bash prompt and suite of generally useful 
 scripts to go along with it. Basic prompts include:
@@ -77,32 +78,32 @@ for anyone who uses the command line interface. Some features include:
   PSx is currently in pre-alpha development stage, but early alpha versions
   should be released in early 2019.
   
-#
-#  PSx: a highly customizeable and full-featured set of utilities for
-#       creating attractive and useful prompts for the bash(1) shell.
-#
-#       Version 0.01(alpha)
-#
-# GitHub: https://github.com/38spl/PSx 
-# Project web page: https://38spl.net/PSx
-#
-# Copyright (C) 2019 Noah T. Paul <ntp@38spl.net>
-#
-# Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documentation files (the "Software"), to deal
-# in the Software without restriction, including without limitation the rights
-# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-# copies of the Software, and to permit persons to whom the Software is
-# furnished to do so, subject to the following conditions:
-#
-#     The above copyright notice, this permission notice, and the following
-#     disclamer shall be included in all copies or substantial portions of
-#     the Software.
-#
-# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-# THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-# OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-# ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-# OTHER DEALINGS IN THE SOFTWARE.
+
+    PSx: a highly customizeable and full-featured set of utilities for
+         creating attractive and useful prompts for the bash(1) shell.
+
+    Version 0.01a (alpha, pre-release)
+
+    GitHub: https://github.com/38spl/PSx 
+    Project web page: https://38spl.net/PSx
+
+    Copyright (C) 2019 Noah T. Paul <ntp@38spl.net>
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the 'Software'), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+    
+         The above copyright notice, this permission notice, and the following
+         disclamer shall be included in all copies or substantial portions of
+         the Software.    
+
+    THE SOFTWARE IS PROVIDED 'AS IS,' WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+    THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+    OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+    ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+    OTHER DEALINGS IN THE SOFTWARE.
