@@ -1,5 +1,10 @@
 # PSx: Fancy & Highly Customizable bash(1) Prompts
 
+GitHub: https://github.com/38spl/PSx 
+Project web page: https://38spl.net/PSx
+
+Copyright © 2018-2019 Noah T. Paul <ntp@38spl.net>
+
 A fancy and highly customizable bash prompt and suite of generally useful 
 scripts to go along with it. Basic prompts include:
 
